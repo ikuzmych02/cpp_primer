@@ -1,0 +1,10 @@
+Exercise 1.14: Compare and contrast the loops that used a for with those using a
+while. Are there advantages or disadvantages to using either form?
+
+Response:
+
+There are advantages in using a for loop in that you don't have to have an extra statement
+to increment/decrement a counter (if you intend to use that as the breaking conditional)
+
+Advantage to a while loop is that all it cares about is the condition. Don't need a counter nor
+decrementer of any kind.

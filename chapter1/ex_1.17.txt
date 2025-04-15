@@ -1,0 +1,10 @@
+Exercise 1.17: What happens in the program presented in this section if the input values
+are all equal? What if there are no duplicated values?
+
+Response:
+
+Expectation is that the program will only exit when user interacts with Ctrl+D to kill it. However,
+the count should be accurate.
+If there are no duplicates, should exit with cnt = 1 for the first input.
+
+Exercise 1.18 complete. Compilation test.
